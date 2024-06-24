@@ -1,5 +1,2 @@
-nginx
-xhofe/alist:latest
-justsong/one-api:latest
-redis:latest
+mysql:latest
 mysql:8.2.0
