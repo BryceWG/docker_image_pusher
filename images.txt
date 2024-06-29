@@ -1,1 +1,1 @@
-jericx/syncclipboard-server
+onlyoffice/documentserver:7.5.1.1
