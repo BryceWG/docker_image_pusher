@@ -1,3 +1,1 @@
-kuaifan/doookr:0.4.3
-kuaifan/dooai:0.2.0
-kuaifan/dooapprove:0.0.11
+docker.io/searxng/searxng:latest
