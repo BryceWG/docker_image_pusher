@@ -1,1 +1,1 @@
-lobehub/lobe-chat
+docker.getoutline.com/outlinewiki/outline:0.77.2
