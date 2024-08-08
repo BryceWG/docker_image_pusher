@@ -1,1 +1,2 @@
-ghcr.io/neggles/sd-webui-docker:latest
+ghcr.io/open-webui/open-webui:${WEBUI_DOCKER_TAG-main}
+ollama/ollama:${OLLAMA_DOCKER_TAG-latest}
